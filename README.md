@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hemanth-Kumar-04
-- 👀 I’m interested in programming web and android app development
-- 🌱 I’m currently learning web3
+- 👀 I’m interested in web and app development
+- 🌱 I’m currently learning web3, reactnative
 
 
 <!---
