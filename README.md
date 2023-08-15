@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Hemanth-Kumar-04
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning web3, reactnative
+- 🌱 MERN stack developer
+- 👀 I animate website using GSAP
+-  
 
 
 <!---
