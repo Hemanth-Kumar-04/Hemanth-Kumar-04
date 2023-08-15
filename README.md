@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning web3, reactnative
 - 🌱 MERN stack developer
 - 👀 I animate website using GSAP
--  
 
 
 <!---
