@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web3, reactnative
 - 🌱 MERN stack developer,React native developer
 - 👀 I animate website using GSAP.
-- 👀 I animate apps using Moti..
+- 👀 I animate apps using Moti.
 
 -My profile : https://hemanth-kumar-04.vercel.app/
 
