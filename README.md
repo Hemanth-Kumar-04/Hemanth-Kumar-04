@@ -2,8 +2,9 @@
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning machine learning in reactnative
 - 🌱 MERN stack developer,React native (App) developer
-- 👀 I animate website using GSAP.
-- 👀 I animate apps using Moti.
+- 👀 I animate website using GSAP,framer
+- 👀 I animate apps using Moti,Reanimated
+
 
 -My profile : https://hemanth-kumar-04.vercel.app/
 
