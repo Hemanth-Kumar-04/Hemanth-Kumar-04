@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hemanth-Kumar-04
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning machine learning in reactnative
+- 🌱 I’m currently learning machine learning in Ai/Ml
 - 🌱 MERN stack developer,React native (App) developer
 - 👀 I animate website using GSAP,framer
 - 👀 I animate apps using Moti,Reanimated
